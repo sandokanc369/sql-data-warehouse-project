@@ -10,7 +10,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The Data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
-
+<img src="./images/Data Architecture for Data Warehose.drawio.png" width="1100" height="2300">
 
 ##   	Project Requirements
 
