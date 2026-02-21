@@ -6,9 +6,10 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 -------------------------------------------------------------------------------------
 
-## Data Architecture
+## <img src="./images/construction.png" width="23">  Data Architecture
 
 The Data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+
 
 
 ##   	Project Requirements
