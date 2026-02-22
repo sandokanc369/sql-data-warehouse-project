@@ -25,8 +25,29 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modeling
+- Data Analytics
 ---------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------
+## Important Links & Tools:
+
+Everything is for Accessible from the following links:
+
+- [Datasets](datasets): Access to the project dataset (csv files).
+- MySQL Community Server: Lightweight server for hosting your SQL database.
+- MySQL Workbench: GUI for managing and interacting with database.
+- Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- DrawIO: Design data architecture, models, flows, and diagrams.
+- Notion: Get the Project Template from Notion
+- Notion Project Steps: Access to All Project Phases and Tasks.
+
+----------------------------------------------------------------------------------------
 
 ### Building the Data Warehouse (Data Engineering)
 
