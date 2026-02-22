@@ -41,7 +41,7 @@ Everything is for Accessible from the following links:
 
 - [Datasets](datasets): Access to the project dataset (csv files).
 - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/): Lightweight server for hosting your SQL database.
-- MySQL Workbench: GUI for managing and interacting with database.
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/): GUI for managing and interacting with database.
 - Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - DrawIO: Design data architecture, models, flows, and diagrams.
 - Notion: Get the Project Template from Notion
