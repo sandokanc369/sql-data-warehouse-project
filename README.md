@@ -40,7 +40,7 @@ This repository is an excellent resource for professionals and students looking 
 Everything is for Accessible from the following links:
 
 - [Datasets](datasets): Access to the project dataset (csv files).
-- MySQL Community Server: Lightweight server for hosting your SQL database.
+- [MySQL Community Server](https://dev.mysql.com/downloads/mysql/): Lightweight server for hosting your SQL database.
 - MySQL Workbench: GUI for managing and interacting with database.
 - Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - DrawIO: Design data architecture, models, flows, and diagrams.
