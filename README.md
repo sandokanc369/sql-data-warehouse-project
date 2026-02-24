@@ -82,4 +82,8 @@ This project is not licensed. The code is not to be used, modified, nor shared w
 
 Hi there! I'm **Samuel J. Claxton**, a SQL Developer with vast years of hands-on experience designing, optimizing, and supporting SQL Server and Oracle databases for enterprise and federal systems. Proven expertise in complex query development, stored procedures, ETL validation, data migration, and performance tuning for high-volume transactional and reporting environments. Strong background in database schema design, execution plan analysis, and data quality enforcement within Agile teams. Oracle Certified Associate with advanced degrees in Information Technology and Business Administration.
 
-For more details, refer to docs/requirements.md.
+For more details, refer to [Linkedin](https://www.linkedin.com/in/samuelclaxton).
+
+---------------------------------------------------------------
+
+
