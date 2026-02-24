@@ -47,6 +47,7 @@ Everything is for Accessible from the following links:
 - [Notion Project Steps](https://petal-oviraptor-efa.notion.site/Data-Warehouse-Project-30b1e67bab4f8084afa8e5d35dd1a6f2): Access to All Project Phases and Tasks.
 
 ----------------------------------------------------------------------------------------
+## <img src="./images/Colorful Rocket.png" width="25"> Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -71,6 +72,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+## Repository Structure
 
 ---
 
