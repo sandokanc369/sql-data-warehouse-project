@@ -44,7 +44,7 @@ Everything is for Accessible from the following links:
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/): GUI for managing and interacting with database.
 - [Git Repository](https://github.com/): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
-- [Notion Project Steps](): Access to All Project Phases and Tasks.
+- [Notion Project Steps](https://valuable-trail-ac7.notion.site/SQL-Data-Warehouse-Project-311c3203c46d80c78ed5fc5ac395389e): Access to All Project Phases and Tasks.
 
 ----------------------------------------------------------------------------------------
 ## <img src="./images/Colorful Rocket.png" width="25"> Project Requirements
