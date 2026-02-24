@@ -35,7 +35,7 @@ This project involves:
 - Data Modeling
 - Data Analytics
 ---------------------------------------------------------------------------------------
-## Important Links & Tools:
+## <img src="./images/tools.png" width="23"> Important Links & Tools:
 
 Everything is for Accessible from the following links:
 
