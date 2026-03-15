@@ -42,7 +42,7 @@ Everything is for Accessible from the following links:
 - [Datasets](datasets): Access to the project dataset (csv files).
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with database.
-- [Git Repository]([https://github.com/](https://github.com/sandokanc369/sql-data-warehouse-project)): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- [Git Repository](https://github.com/sandokanc369/sql-data-warehouse-project): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
 - [Notion Project Steps](https://valuable-trail-ac7.notion.site/SQL-Data-Warehouse-Project-311c3203c46d80c78ed5fc5ac395389e): Access to All Project Phases and Tasks.
 
