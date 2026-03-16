@@ -73,8 +73,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## <img src="./images/folder.png" width="25"> Repository Structure
-
+## <img src="./images/folder.png" width="25"> Repository Structure<img src="./images/repository_structure.png" width="1100" height="2300"> 
 ---
 
 ## License
